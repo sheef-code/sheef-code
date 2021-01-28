@@ -3,9 +3,9 @@
 ## I'm a Full Stack Developer and Tutor! 
 
 - 🌱 I’m currently learning TypeScript, Next.js, and GraphQL. 
-- 📚 I'm an online tutor! You can find me [here][tutor]! 
+- 📚 I'm an online tutor, you can find me [here][tutor]! 
 - 🥅 2021 Goals: Contribute more to open source projects. 
-- ⚡ Fun fact: I am a huge Lakers (basketball) fan!
+- ⚡ Fun fact: I'm a huge Lakers (basketball) fan!
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
