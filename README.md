@@ -29,5 +29,5 @@
 
 ---
 
-[portfolio]: https://sheef-code.com
+[portfolio]: https://www.sheef-code.com/
 [tutor]: https://www.wyzant.com/match/tutor/88467429
