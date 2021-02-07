@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer and Tutor! 
 
 - 🌱 I’m currently learning TypeScript, Next.js, and GraphQL. 
-- 📚 I'm an online tutor, you can find me [here][tutor]! 
+- 📚 I'm an online tutor. For any HTML, CSS, or JavaScript related questions, you can find me [here][tutor]!
 - 🥅 2021 Goals: Contribute more to open source projects. 
 - ⚡ Fun fact: I'm a huge Lakers (basketball) fan!
 
